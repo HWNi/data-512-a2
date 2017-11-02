@@ -56,4 +56,4 @@ In this project, we will use a WikiMedia API called ORES ("Objective Revision Ev
 * By using Wikimedia ORES API, you agree to Wikimedia's [Terms of Use](https://wikimediafoundation.org/wiki/Terms_of_Use/en) and [Privacy Policy](https://wikimediafoundation.org/wiki/Privacy_policy).
 
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/HWNi/data-512-a1/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/HWNi/data-512-a2/blob/master/LICENSE) file for details
