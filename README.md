@@ -14,9 +14,10 @@ Addtionally, you will need following packages:
 # Datasets used in this project
 ## Wikipedia article data
 
-The dataset can be found from [here](https://figshare.com/articles/Untitled_Item/5513449)
+The dataset can be found from [here](https://figshare.com/articles/Untitled_Item/5513449)  
+
 __Note__: Please read through the documentation for this repository, then download and unzip it. You will need _page_data.csv_ in the 'data' directory. 
-Otherwise, there is a copy of this dataset in this github repo which can be found from [here]()
+Otherwise, there is a copy of this dataset in this github repo which can be found from [here](https://github.com/HWNi/data-512-a2/blob/master/page_data.csv)
 
 _page_data.csv_ contains following columns:
 1. 'country', country that relates to the article
@@ -25,7 +26,8 @@ _page_data.csv_ contains following columns:
 
 ## Population Mid 2015 data
 
-The dataset can be found from [Population Research Bureau website](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14)
+The dataset can be found from [Population Research Bureau website](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14)  
+
 __Note__: Please look for the 'Microsoft Excel' incon in the upper right and download this data as a CSV file. 
 
 _Population Mid-2015.csv_ contains following columns:
